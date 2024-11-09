@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Welcome to my GitHub Profile 👋
 
 <!--
 **joshua-miller234/joshua-miller234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+<p><img src="https://streak-stats.demolab.com/?user=joshua-miller234&theme=transparent" alt="Joshua Miller's contribution and commit streak stats"></img></p>
+  
+<p><img src="https://github-readme-stats.vercel.app/api?username=joshua-miller234&show_icons=true&theme=transparent" alt="Joshua Miller's Github Stats"></img></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-miller234&show_icons=true&theme=transparent" alt="Joshua Miller's Most Used Programming Languages"></img></p>
+
+</div>
+
